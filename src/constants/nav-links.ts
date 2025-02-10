@@ -5,6 +5,6 @@ export const NAV_LINKS = [
     path: '/',
   },
   { id: 'about', label: 'About', path: '/about' },
-  { id: 'services', label: 'Services', path: '/services' },
-  { id: 'contacts', label: 'Contact Us', path: '/contacts' },
+  { id: 'default', label: 'Default', path: '/default' },
+  { id: 'async', label: 'Async', path: '/async' },
 ];
