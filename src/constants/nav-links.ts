@@ -4,7 +4,7 @@ export const NAV_LINKS = [
     label: 'Home',
     path: '/',
   },
-  { id: 'about', label: 'About', path: '/about' },
+  { id: 'contactUs', label: 'Contact Us', path: '/contact-us' },
   { id: 'sections', label: 'Sections', path: '/sections' },
   { id: 'default', label: 'Default', path: '/default' },
   { id: 'async', label: 'Async', path: '/async' },
